@@ -1,1 +1,2 @@
-hi im blitz
+git add-A
+git commit -m ok
